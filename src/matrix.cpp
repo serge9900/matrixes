@@ -74,4 +74,5 @@ void matrica () {
 	cout << "my down bynary number: ";
 	for(int k = len1 - 1; k >= 0; --k)
 		cout << bin1[k];
+	cout<<endl;
 }
